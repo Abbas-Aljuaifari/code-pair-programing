@@ -202,8 +202,6 @@ ul {
 }
 
 .work-tag-list {
-  display: flex;
-  flex-direction: row;
   align-items: center;
   padding: 0;
   gap: 12px;
@@ -220,6 +218,8 @@ ul {
   font-size: 15px;
   line-height: 20px;
   color: var(--font-blue);
+  float: right;
+  margin: 6px;
 }
 
 .project-button {
