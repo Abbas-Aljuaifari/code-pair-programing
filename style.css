@@ -426,6 +426,7 @@ ul {
   margin-bottom: 10vh;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .contact-form input {
@@ -457,7 +458,6 @@ ul {
   border: none;
   font-family: var(--font-inter);
   font-weight: 700;
-  padding-left: 20px;
 }
 
 .submit-btn:hover {
