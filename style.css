@@ -138,7 +138,7 @@ ul {
   background-repeat: no-repeat;
   position: absolute;
   justify-self: start;
-  top: 85%;
+  top: 95%;
   right: 0;
   width: 150px;
   height: 360px;
@@ -426,7 +426,7 @@ ul {
   margin-bottom: 10vh;
   display: flex;
   flex-direction: column;
- align-items: center;
+  align-items: center;
 }
 
 .contact-form input {
