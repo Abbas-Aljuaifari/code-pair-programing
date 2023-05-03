@@ -96,6 +96,10 @@ ul {
   align-items: flex-start;
   line-height: 24px;
   gap: 12px;
+  background-image: url('./images/background-img.png');
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 115%;
 }
 
 .home-pag-header {
@@ -133,7 +137,7 @@ ul {
   margin: 5px;
 }
 
-.illustration-header {
+/* .illustration-header {
   background-image: url('./images/background-img.png');
   background-repeat: no-repeat;
   position: absolute;
@@ -143,7 +147,7 @@ ul {
   width: 150px;
   height: 360px;
   background-position: right;
-}
+} */
 
 /* work section */
 .work-section-container {
